@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reporter</string>
+    <string name="check_weather">Check Weather</string>
+    <string name="temp_min">Temp. min.</string>
+    <string name="temp">Temp</string>
+    <string name="temp_max">Temp. max.</string>
+    <string name="feels_like">Feels like</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="enter_city_name">Enter city name</string>
+</resources>
