@@ -1,4 +1,4 @@
-package com.example.reporter
+package com.yash1307.reporter
 
 import org.junit.Test
 

@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Reporter">
         <activity
-            android:name=".MainActivity"
+            android:name="com.yash1307.reporter.MainActivity"
             android:exported="true"
             android:label="Weather Reporter">
             <intent-filter>

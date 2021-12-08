@@ -1,4 +1,4 @@
-package com.example.reporter
+package com.yash1307.reporter
 
 import android.graphics.Typeface
 import android.os.Bundle
@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.android.volley.Request
 import com.android.volley.toolbox.JsonObjectRequest
 import com.android.volley.toolbox.Volley
-import com.yash1307.reporter.API_KEY
+import com.example.reporter.R
 
 class MainActivity : AppCompatActivity() {
 
