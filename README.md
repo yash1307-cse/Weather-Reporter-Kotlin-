@@ -6,9 +6,9 @@ This is simple Weather Reporter Application which tells the different weather co
 
 ## Screenshots
 
-![Report](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/report.png)
-
-![Error](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/error.png)
+|  Report  |  Error   |
+|---    |---
+![](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/report.png)  |   ![](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/error.png)
 
 
 ## API Reference
