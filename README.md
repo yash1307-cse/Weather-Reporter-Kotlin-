@@ -13,6 +13,6 @@ This is simple Weather Reporter Application which tells the different weather co
 
 ## API Reference
 
-Api used for this app is [Open Weather Map](https://openweathermap.org/api) API
+API used for this app is [Open Weather Map](https://openweathermap.org/api) API
 
 
