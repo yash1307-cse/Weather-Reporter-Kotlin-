@@ -18,9 +18,9 @@ This is simple Weather Reporter Application which tells the different weather co
 
 ## Screenshots
 
-|  Report  |  Error   |
-|---    |---
-![](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/report.png)  |   ![](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/error.png)
+|  Report  |  Error   |   Splash Screen   |
+|---    |---    |---
+![](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/report.png)  |   ![](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/error.png)   |   ![](https://github.com/yash1307-cse/Weather-Reporter-Kotlin-/blob/master/preview/splash_screen.jpg)
 
 
 ## API Reference
